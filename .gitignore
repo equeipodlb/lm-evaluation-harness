@@ -46,3 +46,4 @@ examples/wandb/
 # PyInstaller
 *.spec
 test_*.json
+tmp_perlayer/
